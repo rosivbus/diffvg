@@ -151,3 +151,4 @@ If you use diffvg in your academic work, please cite
     year = {2020}
 }
 ```
+.
